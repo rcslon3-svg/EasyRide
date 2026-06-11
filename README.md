@@ -9,7 +9,9 @@ A Bluetooth-based start authorization unit wired into the motorbike ignition cir
 Open hardware, firmware and documentation.
 
 Compatible with motorbikes that have electric starter and NO factory keyless/keyfob or chip-key immobilizer.
+
 Phone: Android and iOS with Bluetooth Low Energy support.
+
 Not compatible with motorbikes that have factory keyless/keyfob or a chip-key immobilizer.
 
 ---
@@ -55,7 +57,9 @@ Current through ST1, ST2 contacts	0.5 A max
 Standby current consumption	1.2 mA
 
 Operating temperature	-20 to +80 degrees C
+
 Dimensions	45 × 45 × 20 mm
+
 Weight	25 g
 
 ### PIN code (phone dead or unavailable)
