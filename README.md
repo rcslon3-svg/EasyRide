@@ -43,11 +43,17 @@ Behavior will be changed by TYPE of your motorcycle and connection method.
 ### Specification
 
 Supply voltage (nominal)	12 V
+
 Supply voltage (operating)	5-24 V
+
 Supply voltage (absolute max.)	30 V
+
 Current on IGN output	7 A continuous, 10 A max
+
 Current through ST1, ST2 contacts	0.5 A max
+
 Standby current consumption	1.2 mA
+
 Operating temperature	-20 to +80 degrees C
 Dimensions	45 × 45 × 20 mm
 Weight	25 g
