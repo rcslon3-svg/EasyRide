@@ -1,7 +1,7 @@
 # EasyRide
 EasyRide - proximity Bluetooth ignition switch for motorcycle.
 
-# EasyRide BLE Ignition — Open Source
+# EasyRide BLE Ignition Switch — Open Source
 
 Keyless Bluetooth ignition system for motorcycles and scooters.  
 Open hardware, firmware and documentation.
