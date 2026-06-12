@@ -1,5 +1,9 @@
-# EasyRide
+# EasyRide - www.smartmoto.asia
 EasyRide - proximity Bluetooth BLE ignition switch for motorcycle, based on Arduino board Supermini or Nice!Nano nRF52840.
+
+# Video
+
+How to easy ride https://youtu.be/58KhOKnijgE
 
 # EasyRide BLE Ignition Switch — Open Source
 
